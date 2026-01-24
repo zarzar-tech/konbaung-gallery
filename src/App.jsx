@@ -31,7 +31,7 @@ const kingsData = [
   {
     id: 4,
     name: "စဉ့်ကူးမင်း",
-    reign: "၁၇၇၆ - ၁၇၈၁",
+    reign: "၁၇၇၆ - ၁၇၈၂",
     achievement: "ရွှေတိဂုံစေတီတော်ရှိ စဉ့်ကူးမင်းခေါင်းလောင်းတော်ကို သွန်းလုပ်လှူဒါန်းခဲ့သည်။",
     traits: "ဘာသာရေးကို ပိုမိုကိုင်းရှိုင်းပြီး စစ်တိုက်ခြင်းထက် ကုသိုလ်ရေးကို အာရုံစိုက်ခဲ့သည်။",
     prompt: "King Singu Min standing next to a massive ornate bronze bell at Shwedagon Pagoda, peaceful atmosphere, sunset lighting, traditional 18th century Myanmar attire."
@@ -134,7 +134,7 @@ export default function App() {
       {/* Header */}
       <header className="max-w-6xl mx-auto mb-12 text-center">
         <h1 className="text-4xl md:text-5xl font-bold text-amber-800 mb-4">ကုန်းဘောင်မင်းဆက် ပြခန်း</h1>
-        <p className="text-stone-600 text-lg">ကုန်းဘောင်ခေတ် မင်း (၁၁) ပါး၏ ထူးခြားချက်များနှင့် AI ပုံရိပ်များ</p>
+        <p className="text-stone-600 text-lg">ကုန်းဘောင်ခေတ် မင်း (၁၁) ပါး၏ ထူးခြားချက်များ</p>
       </header>
 
       <main className="max-w-6xl mx-auto grid grid-cols-1 lg:grid-cols-12 gap-8">
